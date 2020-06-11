@@ -1,6 +1,6 @@
 /* Calculation of Gross Salary */
 # include<stdio.h>
-# include<conio.h>
+
 int main()
 {
     int BS, DA, HRA, GS ;
@@ -12,7 +12,6 @@ int main()
     HRA = BS*20/100;
     /* Calculation of gross salary */
     GS = BS + DA + HRA;
-    printf("The gross salary of Ramesh is %d ", GS);
-    getch();
+    printf("The gross salary of Ramesh is %d \n", GS);
     return 0;
 }
