@@ -1,5 +1,7 @@
+/* Swapping between tow integers */
+
+
 # include<stdio.h>
-# include<conio.h>
 int main()
 {
     int x, y, t;
@@ -10,6 +12,5 @@ int main()
     x = y;
     y = t;
     printf("After Swapping\nFirst integer  =%d\nSecond integer =%d\n", x, y);
-    getch();
     return 0;
 }

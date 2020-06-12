@@ -1,6 +1,7 @@
 /* Calculation of avarage and percentage marks*/
+
+
 # include<stdio.h>
-# include<conio.h>
 int main()
 {
     float beng, eng, math, phy, comp , total, avg, per;

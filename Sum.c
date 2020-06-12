@@ -1,5 +1,6 @@
+/* Calculation of sum of two integers */
+
 # include<stdio.h>
-# include<conio.h>
 int main()
 {
     int n1, n2, sum;
@@ -9,6 +10,5 @@ int main()
     scanf("%d", & n2);
     sum = n1 + n2;
     printf("The sum of %d and %d id %d", n1, n2, sum);
-    getch();
     return 0;
 }
