@@ -1,3 +1,5 @@
+/* Calculation of sum of two integers */
+
 # include<stdio.h>
 int main()
 {

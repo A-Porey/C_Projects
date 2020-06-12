@@ -1,4 +1,6 @@
 /* Calculation of avarage and percentage marks*/
+
+
 # include<stdio.h>
 int main()
 {

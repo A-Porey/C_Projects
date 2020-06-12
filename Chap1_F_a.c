@@ -1,4 +1,6 @@
 /* Calculation of Gross Salary */
+
+
 # include<stdio.h>
 int main()
 {
