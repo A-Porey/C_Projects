@@ -12,6 +12,5 @@ int main()
     scanf("%d", & t);
     i=(p*t*r)/100;
     printf("Interest is %f", i);
-    getch();
     return 0;
 }

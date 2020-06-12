@@ -1,6 +1,5 @@
 # include<stdio.h>
-# include<conio.h>
-void main()
+int main()
 {
-    printf("My first C program");
+    printf("My first C program.");
 }
