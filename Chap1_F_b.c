@@ -15,6 +15,6 @@ int main ()
     inch = km*393701e-1;
     /*Calculation of distance in centimeter*/
     cm = km*1e5;
-    printf("Distance in meter = %f\nDistance in foot = %f\nDistance in inch = %f\nDistance in centimeter = %f", m, ft, inch, cm);
+    printf("Distance in meter = %f\nDistance in foot = %f\nDistance in inch = %f\nDistance in centimeter = %f\n", m, ft, inch, cm);
     return 0;
 }

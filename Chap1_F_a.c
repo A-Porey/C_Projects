@@ -13,6 +13,6 @@ int main()
     hra = bs*20/100;
     /* Calculation of gross salary */
     gs = bs + da + hra;
-    printf("The gross salary of Ramesh is %d ", gs);
+    printf("The gross salary of Ramesh is %d\n", gs);
     return 0;
 }
