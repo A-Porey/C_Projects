@@ -21,6 +21,6 @@ int main()
     avg = total/5;
     /* Calculation of percentage marks */
     per = (total/500)*100;
-    printf("Avarage marks obtaion by the student is %f\nPercentage of marks =%f", avg, per);
+    printf("Avarage marks obtaion by the student is %f\nPercentage of marks =%f\n", avg, per);
     return 0;
 }

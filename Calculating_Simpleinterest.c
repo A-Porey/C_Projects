@@ -13,6 +13,6 @@ int main()
     scanf("%d", & t);
     /* Formula for calculating simple interest*/
     i=(p*t*r)/100;
-    printf("Interest is %f", i);
+    printf("Interest is %f\n", i);
     return 0;
 }
